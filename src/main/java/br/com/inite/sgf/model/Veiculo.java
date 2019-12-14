@@ -5,6 +5,8 @@ import java.util.*;
 public class Veiculo {
 
 	Frota frota;
+	
+	
 	Collection<Abastecimento> abastecimento;
 	private int ID;
 	private String Placa;
